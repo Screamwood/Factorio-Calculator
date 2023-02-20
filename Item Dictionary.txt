@@ -1,0 +1,107 @@
+0,Water
+1,Steam
+2,Iron Ore
+3,Copper Ore
+4,Coal
+5,Stone
+6,Uranium Ore
+7,Crude Oil
+8,Iron Plate
+9,Iron Gear Wheel
+10,Copper Plate
+11,Automation Science Pack
+12,Copper Cable
+13,Electronic Circuit
+14,Inserter
+15,Transport Belt
+16,Logistic Science Pack
+17,Firearm Magazine
+18,Steel Plate
+19,Piercing Rounds Magazine
+20,Grenade
+21,Stone Brick
+22,Wall
+23,Military Science Pack
+24,Petroleum Gas
+25,Heavy Oil
+26,Light Oil
+27,Plastic Bar
+28,Advanced Circuit
+29,Pipe
+30,Engine Unit
+31,Sulfur
+32,Chemical Science Pack
+33,Electric Furnace
+34,Productivity Module
+35,Iron Stick
+36,Rail
+37,Production Science Pack
+38,Sulfuric Acid
+39,Battery
+40,Lubricant
+41,Electric Engine Unit
+42,Flying Robot Frame
+43,Low Density Structure
+44,Processing Unit
+45,Utility Science Pack
+46,Accumulator
+47,Radar
+48,Solid Fuel
+49,Rocket Fuel
+50,Solar Panel
+51,Satellite
+52,Speed Module
+53,Rocket Control Unit
+54,Rocket Part
+55,Assembling Machine 1
+56,Assembling Machine 2
+57,Assembling Machine 3
+58,Speed Module 2
+59,Speed Module 3
+60,Productivity Module 2
+61,Productivity Module 3
+62,Efficiency Module
+63,Efficiency Module 2
+64,Efficiency Module 3
+65,Beacon
+66,Fast Transport Belt
+67,Express Transport Belt
+68,Underground Belt
+69,Fast Underground Belt
+70,Express Underground Belt
+71,Splitter
+72,Fast Splitter
+73,Express Splitter
+74,Long-Handed Inserter
+75,Fast Inserter
+76,Filter Inserter
+77,Stack Inserter
+78,Stack Filter Inserter
+79,Concrete
+80,Hazard Concrete
+81,Refined Concrete
+82,Refined Hazard Concrete
+83,Landfill
+84,Empty Barrel
+85,Explosives
+86,Cliff Explosives
+87,Construction Robot
+88,Logistic Robot
+89,Iron Chest
+90,Steel Chest
+91,Active Provider Chest
+92,Passive Provider Chest
+93,Storage Chest
+94,Buffer Chest
+95,Requester Chest
+96,Lamp
+97,Red Wire
+98,Green Wire
+99,Arithmetic Combinator
+100,Decider Combinator
+101,Constant Combinator
+102,Power Switch
+103,Programmer Speaker
+104,Medium Electric Pole
+105,Big Electric Pole
+106,Substation

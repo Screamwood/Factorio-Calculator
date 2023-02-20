@@ -1,0 +1,3519 @@
+[
+  {
+    "RecipeID": 0,
+    "CraftingMethod": "Offshore Pump",
+    "CraftingTime": 1,
+    "Products": [
+      {
+        "Quantity": 1200,
+        "Item": {
+          "Name": "Water",
+          "ProductID": 0
+        }
+      }
+    ],
+    "Ingredients": []
+  },
+  {
+    "RecipeID": 1,
+    "CraftingMethod": "Boiler",
+    "CraftingTime": 1,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Steam",
+          "ProductID": 1
+        }
+      }
+    ],
+    "Ingredients": []
+  },
+  {
+    "RecipeID": 2,
+    "CraftingMethod": "Heat Exchanger",
+    "CraftingTime": 1,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Steam",
+          "ProductID": 1
+        }
+      }
+    ],
+    "Ingredients": []
+  },
+  {
+    "RecipeID": 3,
+    "CraftingMethod": "Drill",
+    "CraftingTime": 1,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Iron Ore",
+          "ProductID": 2
+        }
+      }
+    ],
+    "Ingredients": []
+  },
+  {
+    "RecipeID": 4,
+    "CraftingMethod": "Drill",
+    "CraftingTime": 1,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Copper Ore",
+          "ProductID": 3
+        }
+      }
+    ],
+    "Ingredients": []
+  },
+  {
+    "RecipeID": 5,
+    "CraftingMethod": "Drill",
+    "CraftingTime": 1,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Coal",
+          "ProductID": 4
+        }
+      }
+    ],
+    "Ingredients": []
+  },
+  {
+    "RecipeID": 6,
+    "CraftingMethod": "Drill",
+    "CraftingTime": 1,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Stone",
+          "ProductID": 5
+        }
+      }
+    ],
+    "Ingredients": []
+  },
+  {
+    "RecipeID": 7,
+    "CraftingMethod": "Drill",
+    "CraftingTime": 2,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Uranium Ore",
+          "ProductID": 6
+        }
+      }
+    ],
+    "Ingredients": []
+  },
+  {
+    "RecipeID": 8,
+    "CraftingMethod": "Pumpjack",
+    "CraftingTime": 1,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Crude Oil",
+          "ProductID": 7
+        }
+      }
+    ],
+    "Ingredients": []
+  },
+  {
+    "RecipeID": 9,
+    "CraftingMethod": "Furnace",
+    "CraftingTime": 3.2,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Iron Plate",
+          "ProductID": 8
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Iron Ore",
+          "ProductID": 2
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 10,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Iron Gear Wheel",
+          "ProductID": 9
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Iron Plate",
+          "ProductID": 8
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 11,
+    "CraftingMethod": "Furnace",
+    "CraftingTime": 3.2,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Copper Plate",
+          "ProductID": 10
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Copper Ore",
+          "ProductID": 3
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 12,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Automation Science Pack",
+          "ProductID": 11
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Copper Plate",
+          "ProductID": 10
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Iron Gear Wheel",
+          "ProductID": 9
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 13,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Copper Cable",
+          "ProductID": 12
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Copper Plate",
+          "ProductID": 10
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 14,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 3,
+        "Item": {
+          "Name": "Copper Cable",
+          "ProductID": 12
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Iron Plate",
+          "ProductID": 8
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 15,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Inserter",
+          "ProductID": 14
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Iron Gear Wheel",
+          "ProductID": 9
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Iron Plate",
+          "ProductID": 8
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 16,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Transport Belt",
+          "ProductID": 15
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Iron Gear Wheel",
+          "ProductID": 9
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Iron Plate",
+          "ProductID": 8
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 17,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 6,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Logistic Science Pack",
+          "ProductID": 16
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Inserter",
+          "ProductID": 14
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Transport Belt",
+          "ProductID": 15
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 18,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 1,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Firearm Magazine",
+          "ProductID": 17
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 4,
+        "Item": {
+          "Name": "Iron Plate",
+          "ProductID": 8
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 19,
+    "CraftingMethod": "Furnace",
+    "CraftingTime": 16,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Steel Plate",
+          "ProductID": 18
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Iron Plate",
+          "ProductID": 8
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 20,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 3,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Piercing Rounds Magazine",
+          "ProductID": 19
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Copper Plate",
+          "ProductID": 10
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Firearm Magazine",
+          "ProductID": 17
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Steel Plate",
+          "ProductID": 18
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 21,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 8,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Grenade",
+          "ProductID": 20
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Coal",
+          "ProductID": 4
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Iron Plate",
+          "ProductID": 8
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 22,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 3.2,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Stone Brick",
+          "ProductID": 21
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Stone",
+          "ProductID": 5
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 23,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Wall",
+          "ProductID": 22
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Stone Brick",
+          "ProductID": 21
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 24,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 10,
+    "Products": [
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Military Science Pack",
+          "ProductID": 23
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Piercing Rounds Magazine",
+          "ProductID": 19
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Grenade",
+          "ProductID": 20
+        }
+      },
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Wall",
+          "ProductID": 22
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 25,
+    "CraftingMethod": "Oil Refinery",
+    "CraftingTime": 5,
+    "Products": [
+      {
+        "Quantity": 45,
+        "Item": {
+          "Name": "Petroleum Gas",
+          "ProductID": 24
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 100,
+        "Item": {
+          "Name": "Crude Oil",
+          "ProductID": 7
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 26,
+    "CraftingMethod": "Oil Refinery",
+    "CraftingTime": 5,
+    "Products": [
+      {
+        "Quantity": 55,
+        "Item": {
+          "Name": "Petroleum Gas",
+          "ProductID": 24
+        }
+      },
+      {
+        "Quantity": 25,
+        "Item": {
+          "Name": "Heavy Oil",
+          "ProductID": 25
+        }
+      },
+      {
+        "Quantity": 45,
+        "Item": {
+          "Name": "Light Oil",
+          "ProductID": 26
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 100,
+        "Item": {
+          "Name": "Crude Oil",
+          "ProductID": 7
+        }
+      },
+      {
+        "Quantity": 50,
+        "Item": {
+          "Name": "Water",
+          "ProductID": 0
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 27,
+    "CraftingMethod": "Chemical Plant",
+    "CraftingTime": 2,
+    "Products": [
+      {
+        "Quantity": 20,
+        "Item": {
+          "Name": "Petroleum Gas",
+          "ProductID": 24
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 30,
+        "Item": {
+          "Name": "Light Oil",
+          "ProductID": 26
+        }
+      },
+      {
+        "Quantity": 30,
+        "Item": {
+          "Name": "Water",
+          "ProductID": 0
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 28,
+    "CraftingMethod": "Oil Refinery",
+    "CraftingTime": 5,
+    "Products": [
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Petroleum Gas",
+          "ProductID": 24
+        }
+      },
+      {
+        "Quantity": 90,
+        "Item": {
+          "Name": "Heavy Oil",
+          "ProductID": 25
+        }
+      },
+      {
+        "Quantity": 20,
+        "Item": {
+          "Name": "Light Oil",
+          "ProductID": 26
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Coal",
+          "ProductID": 4
+        }
+      },
+      {
+        "Quantity": 25,
+        "Item": {
+          "Name": "Heavy Oil",
+          "ProductID": 25
+        }
+      },
+      {
+        "Quantity": 50,
+        "Item": {
+          "Name": "Steam",
+          "ProductID": 1
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 29,
+    "CraftingMethod": "Chemical Plant",
+    "CraftingTime": 1,
+    "Products": [
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Plastic Bar",
+          "ProductID": 27
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Coal",
+          "ProductID": 4
+        }
+      },
+      {
+        "Quantity": 20,
+        "Item": {
+          "Name": "Petroleum Gas",
+          "ProductID": 24
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 30,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 6,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Advanced Circuit",
+          "ProductID": 28
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 4,
+        "Item": {
+          "Name": "Copper Cable",
+          "ProductID": 12
+        }
+      },
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      },
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Plastic Bar",
+          "ProductID": 27
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 31,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Pipe",
+          "ProductID": 29
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Iron Plate",
+          "ProductID": 8
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 32,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 10,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Engine Unit",
+          "ProductID": 30
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Iron Gear Wheel",
+          "ProductID": 9
+        }
+      },
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Pipe",
+          "ProductID": 29
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Steel Plate",
+          "ProductID": 18
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 33,
+    "CraftingMethod": "Chemical Plant",
+    "CraftingTime": 1,
+    "Products": [
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Sulfur",
+          "ProductID": 31
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 30,
+        "Item": {
+          "Name": "Petroleum Gas",
+          "ProductID": 24
+        }
+      },
+      {
+        "Quantity": 30,
+        "Item": {
+          "Name": "Water",
+          "ProductID": 0
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 34,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 24,
+    "Products": [
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Chemical Science Pack",
+          "ProductID": 32
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 3,
+        "Item": {
+          "Name": "Advanced Circuit",
+          "ProductID": 28
+        }
+      },
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Engine Unit",
+          "ProductID": 30
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Sulfur",
+          "ProductID": 31
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 35,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Electric Furnace",
+          "ProductID": 33
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Advanced Circuit",
+          "ProductID": 28
+        }
+      },
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Steel Plate",
+          "ProductID": 18
+        }
+      },
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Stone Brick",
+          "ProductID": 21
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 36,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 15,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Productivity Module",
+          "ProductID": 34
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Advanced Circuit",
+          "ProductID": 28
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 37,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Iron Stick",
+          "ProductID": 35
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Iron Plate",
+          "ProductID": 8
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 38,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Rail",
+          "ProductID": 36
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Iron Stick",
+          "ProductID": 35
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Steel Plate",
+          "ProductID": 18
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Stone",
+          "ProductID": 5
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 39,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 21,
+    "Products": [
+      {
+        "Quantity": 3,
+        "Item": {
+          "Name": "Production Science Pack",
+          "ProductID": 37
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Electric Furnace",
+          "ProductID": 33
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Productivity Module",
+          "ProductID": 34
+        }
+      },
+      {
+        "Quantity": 30,
+        "Item": {
+          "Name": "Rail",
+          "ProductID": 36
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 40,
+    "CraftingMethod": "Chemical Plant",
+    "CraftingTime": 1,
+    "Products": [
+      {
+        "Quantity": 50,
+        "Item": {
+          "Name": "Sulfuric Acid",
+          "ProductID": 38
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Iron Plate",
+          "ProductID": 8
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Sulfur",
+          "ProductID": 31
+        }
+      },
+      {
+        "Quantity": 100,
+        "Item": {
+          "Name": "Water",
+          "ProductID": 0
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 41,
+    "CraftingMethod": "Chemical Plant",
+    "CraftingTime": 4,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Battery",
+          "ProductID": 39
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Copper Plate",
+          "ProductID": 10
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Iron Plate",
+          "ProductID": 8
+        }
+      },
+      {
+        "Quantity": 20,
+        "Item": {
+          "Name": "Sulfuric Acid",
+          "ProductID": 38
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 42,
+    "CraftingMethod": "Chemical Plant",
+    "CraftingTime": 1,
+    "Products": [
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Lubricant",
+          "ProductID": 40
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Heavy Oil",
+          "ProductID": 25
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 43,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 10,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Electric Engine Unit",
+          "ProductID": 41
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Engine Unit",
+          "ProductID": 30
+        }
+      },
+      {
+        "Quantity": 15,
+        "Item": {
+          "Name": "Lubricant",
+          "ProductID": 40
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 44,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 20,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Flying Robot Frame",
+          "ProductID": 42
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Battery",
+          "ProductID": 39
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Electric Engine Unit",
+          "ProductID": 41
+        }
+      },
+      {
+        "Quantity": 3,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Steel Plate",
+          "ProductID": 18
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 45,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 20,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Low Density Structure",
+          "ProductID": 43
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 20,
+        "Item": {
+          "Name": "Copper Plate",
+          "ProductID": 10
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Plastic Bar",
+          "ProductID": 27
+        }
+      },
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Steel Plate",
+          "ProductID": 18
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 46,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 10,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Processing Unit",
+          "ProductID": 44
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Advanced Circuit",
+          "ProductID": 28
+        }
+      },
+      {
+        "Quantity": 20,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Sulfuric Acid",
+          "ProductID": 38
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 47,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 21,
+    "Products": [
+      {
+        "Quantity": 3,
+        "Item": {
+          "Name": "Utility Science Pack",
+          "ProductID": 45
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Flying Robot Frame",
+          "ProductID": 42
+        }
+      },
+      {
+        "Quantity": 3,
+        "Item": {
+          "Name": "Low Density Structure",
+          "ProductID": 43
+        }
+      },
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Processing Unit",
+          "ProductID": 44
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 48,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 10,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Accumulator",
+          "ProductID": 46
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Battery",
+          "ProductID": 39
+        }
+      },
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Iron Plate",
+          "ProductID": 8
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 49,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Radar",
+          "ProductID": 47
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Iron Gear Wheel",
+          "ProductID": 9
+        }
+      },
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Iron Plate",
+          "ProductID": 8
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 50,
+    "CraftingMethod": "Chemical Plant",
+    "CraftingTime": 2,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Solid Fuel",
+          "ProductID": 48
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 20,
+        "Item": {
+          "Name": "Heavy Oil",
+          "ProductID": 25
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 51,
+    "CraftingMethod": "Chemical Plant",
+    "CraftingTime": 2,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Solid Fuel",
+          "ProductID": 48
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Light Oil",
+          "ProductID": 26
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 52,
+    "CraftingMethod": "Chemical Plant",
+    "CraftingTime": 2,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Solid Fuel",
+          "ProductID": 48
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 20,
+        "Item": {
+          "Name": "Petroleum Gas",
+          "ProductID": 24
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 53,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 30,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Rocket Fuel",
+          "ProductID": 49
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Light Oil",
+          "ProductID": 26
+        }
+      },
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Solid Fuel",
+          "ProductID": 48
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 54,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 10,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Solar Panel",
+          "ProductID": 50
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Copper Plate",
+          "ProductID": 10
+        }
+      },
+      {
+        "Quantity": 15,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Steel Plate",
+          "ProductID": 18
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 55,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Satellite",
+          "ProductID": 51
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 100,
+        "Item": {
+          "Name": "Accumulator",
+          "ProductID": 46
+        }
+      },
+      {
+        "Quantity": 100,
+        "Item": {
+          "Name": "Low Density Structure",
+          "ProductID": 43
+        }
+      },
+      {
+        "Quantity": 100,
+        "Item": {
+          "Name": "Processing Unit",
+          "ProductID": 44
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Radar",
+          "ProductID": 47
+        }
+      },
+      {
+        "Quantity": 50,
+        "Item": {
+          "Name": "Rocket Fuel",
+          "ProductID": 49
+        }
+      },
+      {
+        "Quantity": 100,
+        "Item": {
+          "Name": "Solar Panel",
+          "ProductID": 50
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 56,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 15,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Speed Module",
+          "ProductID": 52
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Advanced Circuit",
+          "ProductID": 28
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 57,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 30,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Rocket Control Unit",
+          "ProductID": 53
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Advanced Circuit",
+          "ProductID": 28
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Speed Module",
+          "ProductID": 52
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 58,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 3,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Rocket Part",
+          "ProductID": 54
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Low Density Structure",
+          "ProductID": 43
+        }
+      },
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Rocket Control Unit",
+          "ProductID": 53
+        }
+      },
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Rocket Fuel",
+          "ProductID": 49
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 59,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Assembling Machine 1",
+          "ProductID": 55
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 3,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Iron Gear Wheel",
+          "ProductID": 9
+        }
+      },
+      {
+        "Quantity": 9,
+        "Item": {
+          "Name": "Iron Plate",
+          "ProductID": 8
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 60,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Assembling Machine 2",
+          "ProductID": 56
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Assembling Machine 1",
+          "ProductID": 55
+        }
+      },
+      {
+        "Quantity": 3,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Iron Gear Wheel",
+          "ProductID": 9
+        }
+      },
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Steel Plate",
+          "ProductID": 18
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 61,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Assembling Machine 3",
+          "ProductID": 57
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Assembling Machine 2",
+          "ProductID": 56
+        }
+      },
+      {
+        "Quantity": 4,
+        "Item": {
+          "Name": "Speed Module",
+          "ProductID": 52
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 62,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 30,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Speed Module 2",
+          "ProductID": 58
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Advanced Circuit",
+          "ProductID": 28
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Processing Unit",
+          "ProductID": 44
+        }
+      },
+      {
+        "Quantity": 4,
+        "Item": {
+          "Name": "Speed Module",
+          "ProductID": 52
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 63,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 60,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Speed Module 3",
+          "ProductID": 59
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Advanced Circuit",
+          "ProductID": 28
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Processing Unit",
+          "ProductID": 44
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Speed Module 2",
+          "ProductID": 58
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 64,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 30,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Productivity Module 2",
+          "ProductID": 60
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Advanced Circuit",
+          "ProductID": 28
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Processing Unit",
+          "ProductID": 44
+        }
+      },
+      {
+        "Quantity": 4,
+        "Item": {
+          "Name": "Productivity Module",
+          "ProductID": 34
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 65,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 60,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Productivity Module 3",
+          "ProductID": 61
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Advanced Circuit",
+          "ProductID": 28
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Processing Unit",
+          "ProductID": 44
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Productivity Module 2",
+          "ProductID": 60
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 66,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 15,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Efficiency Module",
+          "ProductID": 62
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Advanced Circuit",
+          "ProductID": 28
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 67,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 30,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Efficiency Module 2",
+          "ProductID": 63
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Advanced Circuit",
+          "ProductID": 28
+        }
+      },
+      {
+        "Quantity": 4,
+        "Item": {
+          "Name": "Efficiency Module",
+          "ProductID": 62
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Processing Unit",
+          "ProductID": 44
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 68,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 60,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Efficiency Module 3",
+          "ProductID": 64
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Advanced Circuit",
+          "ProductID": 28
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Efficiency Module 2",
+          "ProductID": 63
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Processing Unit",
+          "ProductID": 44
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 69,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 15,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Beacon",
+          "ProductID": 65
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 20,
+        "Item": {
+          "Name": "Advanced Circuit",
+          "ProductID": 28
+        }
+      },
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Copper Cable",
+          "ProductID": 12
+        }
+      },
+      {
+        "Quantity": 20,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      },
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Steel Plate",
+          "ProductID": 18
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 70,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Fast Transport Belt",
+          "ProductID": 66
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Iron Gear Wheel",
+          "ProductID": 9
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Transport Belt",
+          "ProductID": 15
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 71,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Express Transport Belt",
+          "ProductID": 67
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Fast Transport Belt",
+          "ProductID": 66
+        }
+      },
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Iron Gear Wheel",
+          "ProductID": 9
+        }
+      },
+      {
+        "Quantity": 20,
+        "Item": {
+          "Name": "Lubricant",
+          "ProductID": 40
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 72,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 1,
+    "Products": [
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Underground Belt",
+          "ProductID": 68
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Iron Plate",
+          "ProductID": 8
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Transport Belt",
+          "ProductID": 15
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 73,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 2,
+    "Products": [
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Fast Underground Belt",
+          "ProductID": 69
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 40,
+        "Item": {
+          "Name": "Iron Gear Wheel",
+          "ProductID": 9
+        }
+      },
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Underground Belt",
+          "ProductID": 68
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 74,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 2,
+    "Products": [
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Express Underground Belt",
+          "ProductID": 70
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Fast Underground Belt",
+          "ProductID": 69
+        }
+      },
+      {
+        "Quantity": 80,
+        "Item": {
+          "Name": "Iron Gear Wheel",
+          "ProductID": 9
+        }
+      },
+      {
+        "Quantity": 40,
+        "Item": {
+          "Name": "Lubricant",
+          "ProductID": 40
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 75,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 1,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Splitter",
+          "ProductID": 71
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Iron Plate",
+          "ProductID": 8
+        }
+      },
+      {
+        "Quantity": 4,
+        "Item": {
+          "Name": "Transport Belt",
+          "ProductID": 15
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 76,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 2,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Fast Splitter",
+          "ProductID": 72
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      },
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Iron Gear Wheel",
+          "ProductID": 9
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Splitter",
+          "ProductID": 71
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 77,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 2,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Express Splitter",
+          "ProductID": 73
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Advanced Circuit",
+          "ProductID": 28
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Fast Splitter",
+          "ProductID": 72
+        }
+      },
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Iron Gear Wheel",
+          "ProductID": 9
+        }
+      },
+      {
+        "Quantity": 80,
+        "Item": {
+          "Name": "Lubricant",
+          "ProductID": 40
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 78,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Long-Handed Inserter",
+          "ProductID": 74
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Inserter",
+          "ProductID": 14
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Iron Gear Wheel",
+          "ProductID": 9
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Iron Plate",
+          "ProductID": 8
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 79,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Fast Inserter",
+          "ProductID": 75
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Inserter",
+          "ProductID": 14
+        }
+      },
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Iron Plate",
+          "ProductID": 8
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 80,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Filter Inserter",
+          "ProductID": 76
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 4,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Fast Inserter",
+          "ProductID": 75
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 81,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Stack Inserter",
+          "ProductID": 77
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Advanced Circuit",
+          "ProductID": 28
+        }
+      },
+      {
+        "Quantity": 15,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Fast Inserter",
+          "ProductID": 75
+        }
+      },
+      {
+        "Quantity": 15,
+        "Item": {
+          "Name": "Iron Gear Wheel",
+          "ProductID": 9
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 82,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Stack Filter Inserter",
+          "ProductID": 78
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Stack Inserter",
+          "ProductID": 77
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 83,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 10,
+    "Products": [
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Concrete",
+          "ProductID": 79
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Iron Ore",
+          "ProductID": 2
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Stone Brick",
+          "ProductID": 21
+        }
+      },
+      {
+        "Quantity": 100,
+        "Item": {
+          "Name": "Water",
+          "ProductID": 0
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 84,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.25,
+    "Products": [
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Hazard Concrete",
+          "ProductID": 80
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Concrete",
+          "ProductID": 79
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 85,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 15,
+    "Products": [
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Refined Concrete",
+          "ProductID": 81
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 20,
+        "Item": {
+          "Name": "Concrete",
+          "ProductID": 79
+        }
+      },
+      {
+        "Quantity": 8,
+        "Item": {
+          "Name": "Iron Stick",
+          "ProductID": 35
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Steel Plate",
+          "ProductID": 18
+        }
+      },
+      {
+        "Quantity": 100,
+        "Item": {
+          "Name": "Water",
+          "ProductID": 0
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 86,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.25,
+    "Products": [
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Refined Hazard Concrete",
+          "ProductID": 82
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Refined Concrete",
+          "ProductID": 81
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 87,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Landfill",
+          "ProductID": 83
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 20,
+        "Item": {
+          "Name": "Stone",
+          "ProductID": 5
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 88,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 1,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Empty Barrel",
+          "ProductID": 84
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Steel Plate",
+          "ProductID": 18
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 89,
+    "CraftingMethod": "Chemical Plant",
+    "CraftingTime": 4,
+    "Products": [
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Explosives",
+          "ProductID": 85
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Coal",
+          "ProductID": 4
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Sulfur",
+          "ProductID": 31
+        }
+      },
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Water",
+          "ProductID": 0
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 90,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 8,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Cliff Explosives",
+          "ProductID": 86
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Empty Barrel",
+          "ProductID": 84
+        }
+      },
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Explosives",
+          "ProductID": 85
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Grenade",
+          "ProductID": 20
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 91,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Construction Robot",
+          "ProductID": 87
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Flying Robot Frame",
+          "ProductID": 42
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 92,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Logistic Robot",
+          "ProductID": 88
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Advanced Circuit",
+          "ProductID": 28
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Flying Robot Frame",
+          "ProductID": 42
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 93,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Iron Chest",
+          "ProductID": 89
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 8,
+        "Item": {
+          "Name": "Iron Plate",
+          "ProductID": 8
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 94,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Steel Chest",
+          "ProductID": 90
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 8,
+        "Item": {
+          "Name": "Steel Plate",
+          "ProductID": 18
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 95,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Active Provider Chest",
+          "ProductID": 91
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Advanced Circuit",
+          "ProductID": 28
+        }
+      },
+      {
+        "Quantity": 3,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Steel Chest",
+          "ProductID": 90
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 96,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Passive Provider Chest",
+          "ProductID": 92
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Advanced Circuit",
+          "ProductID": 28
+        }
+      },
+      {
+        "Quantity": 3,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Steel Chest",
+          "ProductID": 90
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 97,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Storage Chest",
+          "ProductID": 93
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Advanced Circuit",
+          "ProductID": 28
+        }
+      },
+      {
+        "Quantity": 3,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Steel Chest",
+          "ProductID": 90
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 98,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Buffer Chest",
+          "ProductID": 94
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Advanced Circuit",
+          "ProductID": 28
+        }
+      },
+      {
+        "Quantity": 3,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Steel Chest",
+          "ProductID": 90
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 99,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Requester Chest",
+          "ProductID": 95
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Advanced Circuit",
+          "ProductID": 28
+        }
+      },
+      {
+        "Quantity": 3,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Steel Chest",
+          "ProductID": 90
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 100,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Lamp",
+          "ProductID": 96
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 3,
+        "Item": {
+          "Name": "Copper Cable",
+          "ProductID": 12
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Iron Plate",
+          "ProductID": 8
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 101,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Red Wire",
+          "ProductID": 97
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Copper Cable",
+          "ProductID": 12
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 102,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Green Wire",
+          "ProductID": 98
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Copper Cable",
+          "ProductID": 12
+        }
+      },
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 103,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Arithmetic Combinator",
+          "ProductID": 99
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Copper Cable",
+          "ProductID": 12
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 104,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Decider Combinator",
+          "ProductID": 100
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Copper Cable",
+          "ProductID": 12
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 105,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Constant Combinator",
+          "ProductID": 101
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Copper Cable",
+          "ProductID": 12
+        }
+      },
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 106,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 2,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Power Switch",
+          "ProductID": 102
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Copper Cable",
+          "ProductID": 12
+        }
+      },
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Iron Plate",
+          "ProductID": 8
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 107,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 2,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Programmer Speaker",
+          "ProductID": 103
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Copper Cable",
+          "ProductID": 12
+        }
+      },
+      {
+        "Quantity": 4,
+        "Item": {
+          "Name": "Electronic Circuit",
+          "ProductID": 13
+        }
+      },
+      {
+        "Quantity": 3,
+        "Item": {
+          "Name": "Iron Plate",
+          "ProductID": 8
+        }
+      },
+      {
+        "Quantity": 4,
+        "Item": {
+          "Name": "Iron Stick",
+          "ProductID": 35
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 108,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Medium Electric Pole",
+          "ProductID": 104
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Copper Plate",
+          "ProductID": 10
+        }
+      },
+      {
+        "Quantity": 4,
+        "Item": {
+          "Name": "Iron Stick",
+          "ProductID": 35
+        }
+      },
+      {
+        "Quantity": 2,
+        "Item": {
+          "Name": "Steel Plate",
+          "ProductID": 18
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 109,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Big Electric Pole",
+          "ProductID": 105
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Copper Plate",
+          "ProductID": 10
+        }
+      },
+      {
+        "Quantity": 8,
+        "Item": {
+          "Name": "Iron Stick",
+          "ProductID": 35
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Steel Plate",
+          "ProductID": 18
+        }
+      }
+    ]
+  },
+  {
+    "RecipeID": 110,
+    "CraftingMethod": "Assembling Machine",
+    "CraftingTime": 0.5,
+    "Products": [
+      {
+        "Quantity": 1,
+        "Item": {
+          "Name": "Substation",
+          "ProductID": 106
+        }
+      }
+    ],
+    "Ingredients": [
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Advanced Circuit",
+          "ProductID": 28
+        }
+      },
+      {
+        "Quantity": 5,
+        "Item": {
+          "Name": "Copper Plate",
+          "ProductID": 10
+        }
+      },
+      {
+        "Quantity": 10,
+        "Item": {
+          "Name": "Steel Plate",
+          "ProductID": 18
+        }
+      }
+    ]
+  }
+]
